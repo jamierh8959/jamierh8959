@@ -1,5 +1,4 @@
-- Hello! Im Jamie Hall, a Computer Games Programming graduate from De Montfort University.
-- As you might be able to guess, I'm interested in game development both as a hobby and a career.
+- Hello! Im Jamie, a games programmer with experience in C++, Unreal Engine, Python, and hopefully more by the time I remember to update this readme again.
 - If you haven't already seen it, you can find my portfolio at http://jamiehall2121.wixsite.com/portfolio
 
 <!---
